@@ -1,0 +1,5 @@
+Це тестовий файл номер 0
+Це деякий текст для тестування.
+example keyword
+test keyword
+keyword
